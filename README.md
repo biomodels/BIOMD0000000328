@@ -1,3 +1,21 @@
+# BIOMD0000000328: Atorvastatin_Metabolism
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000328.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000328.git@20140916`
+
+
+# Model Notes
 
 
 This is the model of atorvastatin metabolism in hepaitc cells described in the
@@ -39,4 +57,5 @@ framework for precise computer-aided simulations in toxicology.
 
 The model is parameterized for patient 1 and reproduces the time courses in
 figure 2 of the article.
+
 
